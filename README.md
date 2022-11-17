@@ -3,7 +3,9 @@
 1. Install all the dependencies from requirements.txt
 2. Keep a video ready and place it in the same folder as MotionCap.py
 3. Run MotionCap.py
-4. '3D motion detection video.mp4' is the ouput video
+4. '3D motion detection video.mp4' is the ouput video.
+
+
 The output video looks like this:-
 
 
